@@ -1,6 +1,6 @@
 # 👩‍💼 Employee Management & NumPy Operations
 
-## 📝 **Project Overview**
+##  **Project Overview**
 
 This project is divided into two main sections:
 
@@ -12,7 +12,7 @@ This project is divided into two main sections:
 
 ---
 
-## 🎯 **Objectives**
+##  **Objectives**
 
 - **Implement Object-Oriented Programming (OOP)** concepts like classes, inheritance, and methods.
 - **Manage Employee Data** including attributes like name, family, salary, and department.
@@ -32,7 +32,7 @@ This project is divided into two main sections:
 
 ---
 
-## 💼 **Employee Management System**
+##  **Employee Management System**
 
 ### **Key Features:**
 
@@ -58,7 +58,7 @@ Department: Cloud Architect
 
 ---
 
-## 🔢 **NumPy Array Operations**
+##  **NumPy Array Operations**
 
 ### **Key Operations:**
 
@@ -92,7 +92,7 @@ Replacing Maximum in Each Row:
 
 ---
 
-## 🚀 **How to Run the Project**
+##  **How to Run the Project**
 
 1. **Clone the Repository:**
    ```bash
@@ -111,7 +111,7 @@ Replacing Maximum in Each Row:
 
 ---
 
-## 💡 **Future Improvements**
+##  **Future Improvements**
 
 - Add more employee types like `PartTime_Employee` or `Contract_Employee`.
 - Implement advanced NumPy operations like matrix multiplication.
